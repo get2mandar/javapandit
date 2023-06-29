@@ -23,6 +23,13 @@ public class JavaBean_Person implements Serializable {
 	}
 
 	// All properties in Java Bean Must have Public Getters and Setter Methods
+
+	// Setter Methods Return-Type should be Void
+	// Prefixed with 'set' and should take Some Argument
+
+	// Getter Methods Return-Type should NOT be Void
+	// Prefixed with 'get' or 'is' (if boolean) and should NOT take any Argument
+
 	public String getFirstName() {
 		return firstName;
 	}
