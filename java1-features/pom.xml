@@ -9,7 +9,7 @@
 	<packaging>jar</packaging>
 
 	<name>java1-features</name>
-	<description>Java Program Examples for Java SE 7 Features - Release Oak -
+	<description>Java Program Examples for JDK 1 Features - Release Oak -
 		Release Date: 23-January-1996</description>
 
 	<properties>
