@@ -62,7 +62,6 @@ public class JavaBean_Person implements Serializable {
 		this.active = active;
 	}
 
-	@Override
 	public String toString() {
 		return "JavaBean_Person [getFirstName()=" + getFirstName() + ", getLastName()=" + getLastName() + ", getAge()="
 				+ getAge() + ", isActive()=" + isActive() + "]";

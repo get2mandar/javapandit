@@ -22,6 +22,7 @@ public class JavaAWT_ComponentControlsDemo {
 		baseGUI();
 	}
 
+	// Main Method
 	public static void main(String[] args) {
 		JavaAWT_ComponentControlsDemo awtDemo = new JavaAWT_ComponentControlsDemo();
 		awtDemo.viewEventsDemo();

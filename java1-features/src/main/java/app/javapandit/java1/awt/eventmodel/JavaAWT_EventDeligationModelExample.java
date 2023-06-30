@@ -26,6 +26,7 @@ public class JavaAWT_EventDeligationModelExample {
 		System.out.println("Deleting....");
 	}
 
+	// Main Method
 	static public void main(String args[]) {
 		JavaAWT_EventDeligationModelExample app = new JavaAWT_EventDeligationModelExample();
 		new GUI(app);
@@ -62,7 +63,7 @@ class Command implements ActionListener {
 class GUI {
 
 	public GUI(JavaAWT_EventDeligationModelExample app) {
-		Frame frame = new Frame();
+		final Frame frame = new Frame();
 		frame.setLayout(new FlowLayout());
 
 		Command searchCmd = new Command(Command.SEARCH, app);

@@ -13,7 +13,7 @@ public class JavaAWT_MemberObjectFrameExample {
 	JavaAWT_MemberObjectFrameExample() {
 
 		// Creating a Frame
-		Frame frame = new Frame();
+		final Frame frame = new Frame();
 
 		// Creating a Label
 		Label label = new Label("Employee id:");

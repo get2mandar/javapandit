@@ -14,7 +14,6 @@ public class RMIServer extends UnicastRemoteObject implements RemoteInterface {
 		super();
 	}
 
-	@Override
 	public String helloTo(String name) throws RemoteException {
 		System.err.println(name + " is trying to Connect!");
 		return "Server Says: Hello, " + name + " !";

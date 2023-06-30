@@ -38,7 +38,7 @@ public class JavaAWT_ExtendFrameExample extends Frame {
 	public static void main(String args[]) {
 
 		// Creating Instance of Frame Class
-		JavaAWT_ExtendFrameExample frame = new JavaAWT_ExtendFrameExample();
+		final JavaAWT_ExtendFrameExample frame = new JavaAWT_ExtendFrameExample();
 
 		frame.addWindowListener(new WindowAdapter() {
 			public void windowClosing(WindowEvent we) {
