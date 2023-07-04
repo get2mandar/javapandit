@@ -25,7 +25,8 @@ Simple Examples of Swing Graphical API, using `JFrame` as member variable in a C
 Also one example with various Components added in Frame and arranged to present a good Look & Feel with Swing APIs.
 
 ### Collections Framework
-Collections Framework Examples TBD
+Basic Collections Framework Examples based on Interface Implementations available at time of Java 1.2.
 
-- Collections Framework Examples
-- Collections Framework Examples
+- List Interface Implementations Examples: ArrayList, LinkedList, Vector (Legacy), Stack
+- Set Interface Implementations Examples: HashSet, TreeSet (SortedSet)
+- Map Interface Implementations Examples: HashMap, TreeMap (SortedMap), Hashtable (Legacy)
