@@ -1,0 +1,3 @@
+This is Sample content in a text file created to read using Java NIO classes.
+This is second line of the content in a file.
+Final Line to finish the content. By.
