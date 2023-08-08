@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pets>
+	<pet id="001">
+        <![CDATA[
+        CDATA section use reserved characters like < > & "
+        ]]>
+		<name>Tom</name>
+		<gender>Male</gender>
+		<!-- Tom is a Cat -->
+	</pet>
+	<pet id="002">
+		<name>Jerry</name>
+		<gender>Male</gender>
+		<!-- Jerry is a Mouse -->
+	</pet>
+</pets>
