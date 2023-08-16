@@ -9,7 +9,7 @@
 	<packaging>jar</packaging>
 
 	<name>java5-features</name>
-	<description>Java Program Examples JDK 1.5 (J2SE) also called 5.0 Features -
+	<description>Java Program Examples JDK 1.5 also called 5.0 Features -
 		Release Tiger - Release Date: 30-September-2004</description>
 
 	<properties>
