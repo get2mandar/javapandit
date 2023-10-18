@@ -1,0 +1,1 @@
+print('Welcome! '+ name + ', Greeting Message From Nashorn.');
