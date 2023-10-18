@@ -2,10 +2,8 @@ package app.javapandit.java8.nashorn;
 
 import java.io.File;
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.InputStreamReader;
 import java.io.Reader;
-import java.net.URISyntaxException;
 import java.net.URL;
 
 import javax.script.Bindings;
@@ -13,7 +11,6 @@ import javax.script.Invocable;
 import javax.script.ScriptContext;
 import javax.script.ScriptEngine;
 import javax.script.ScriptEngineManager;
-import javax.script.ScriptException;
 
 public class Java8_NashornJavaScriptEngine_Example {
 
