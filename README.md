@@ -29,3 +29,5 @@ The Fourth Java Release with more features like assert Keyword, Regular Expressi
 ## java7-features
 
 ## java8-features
+The Eighth Java Release with more features like Lambda Expression, Stream API, Functional Interface and Default Methods, Optionals, Nashorn – JavaScript Runtime Engine, Annotation on Java Types and Repeating Annotations, Unsigned Integer Arithmetic, New Date and Time API and Basic JavaFX Application.
+> Find more details in `README` file here [Java 8 Features](java8-features/README.md).
